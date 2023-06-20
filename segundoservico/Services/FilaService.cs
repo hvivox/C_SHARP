@@ -34,10 +34,6 @@ namespace segundoservico.Services
         {
             var messageBody = Encoding.UTF8.GetString(message.Body);
 
-            // Processar a mensagem e extrair os dados necessários
-            //Usuario usuario = ObterUsuarioDoCorpoDaMensagem(messageBody);
-            // Console.WriteLine($"Usuário: {usuario.Id}, Nome: {usuario.Nome}, Status: {usuario.status}");
-            //_logger.LogInformation("Mensagem recebida: {@Usuario}", usuario);
 
             // Cancela chamada em caso de timeout
             await Task.Delay(Timeout.Infinite, cancellationToken);

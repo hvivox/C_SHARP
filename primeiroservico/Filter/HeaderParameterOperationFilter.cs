@@ -7,7 +7,7 @@ using Swashbuckle.AspNetCore.SwaggerGen;
 namespace primeiroservico.Filter
 {
 
-
+    // Customiza o swagger para criação de um campo para entrada do token de acesso
     public class HeaderParameterOperationFilter : IOperationFilter
     {
         public void Apply(OpenApiOperation operation, OperationFilterContext context)

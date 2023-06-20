@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ef2a651-b000-4a02-8e3a-b15042c8ae22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/bin/Debug/net8.0/segundoservico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/bin/Debug/net8.0/segundoservico.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/bin/Debug/net8.0/segundoservico.exe" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/bin/Debug/net8.0/segundoservico.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/bin/Debug/net8.0/segundoservico.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/bin/Debug/net8.0/segundoservico.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/ref/segundoservico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/ref/segundoservico.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/refint/segundoservico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/refint/segundoservico.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/segundoservico/obj/Debug/net8.0/segundoservico.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687287569942</updated>
-      <workItem from="1687287572101" duration="1358000" />
+      <workItem from="1687287572101" duration="1682000" />
     </task>
     <servers />
   </component>

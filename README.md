@@ -13,9 +13,10 @@ Este repositório contém o projeto "C_SHARP", que é um microserviço desenvolv
 - Azure Cosmos DB
 - Azure Service Bus
 
-## Requisitos do Sistema
+![funcionamento](https://github.com/hvivox/C_SHARP/blob/main/Funcionamento_primeiro_servico.gif)
 
-- Visual Studio com suporte para desenvolvimento em C#
+
+
 
 ## Configuração do Ambiente de Desenvolvimento
 

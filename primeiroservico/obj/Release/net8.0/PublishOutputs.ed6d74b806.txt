@@ -1,0 +1,12 @@
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\primeiroservico.exe
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\appsettings.Development.json
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\appsettings.json
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\primeiroservico.dll
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\primeiroservico.deps.json
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\primeiroservico.runtimeconfig.json
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\primeiroservico.pdb
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

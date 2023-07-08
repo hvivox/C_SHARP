@@ -82,3 +82,4 @@ D:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Debug\net8.0\runtimes\win\lib\net6
 D:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Debug\net8.0\Azure.Core.Amqp.dll
 D:\WorkSpaceGeral\C_SHARP\primeiroservico\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+D:\WorkSpaceGeral\C_SHARP\primeiroservico\obj\Debug\net8.0\primeiroservico.sourcelink.json

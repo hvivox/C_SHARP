@@ -1,7 +1,7 @@
 
 using Newtonsoft.Json;
 
-namespace primeiroservico.Model
+namespace segundoservico.Model
 {
     public class Usuario
     {

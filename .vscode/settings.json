@@ -1,3 +1,6 @@
 {
-  "dotnet.defaultSolution": "com.bemol.primeiroms.sln"
+  "dotnet.defaultSolution": "com.bemol.primeiroms.sln",
+  "cSpell.words": [
+    "RECEBE"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t2gJUIduHyg53UIBRTEKv8aMbsk+gLWC1L2hliBtksyPXdIf+jhfHqRZsK7STLDwLYIZLEkrJAJ8nzV8axuz8A==",
+  "dgSpecHash": "UhIGlvysyCBPicY1QV98rIMOpzohHQuRC8sDTw8yJFVQlMfammUqUWlGwrdVoL6pbeFHOUHBZxmvuLYJBL8l2g==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj",
+  "projectFilePath": "d:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\root\\.nuget\\packages\\azure.core\\1.32.0\\azure.core.1.32.0.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\azure.core.amqp\\1.3.0\\azure.core.amqp.1.3.0.nupkg.sha512",

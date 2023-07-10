@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj": {}
+    "d:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj": {
+    "d:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj",
+        "projectUniqueName": "d:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj",
         "projectName": "primeiroservico",
-        "projectPath": "D:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj",
+        "projectPath": "d:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\primeiroservico.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\obj\\",
+        "outputPath": "d:\\WorkSpaceGeral\\C_SHARP\\primeiroservico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config"

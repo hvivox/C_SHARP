@@ -1,4 +1,4 @@
-using primeiroservico.Config;
+using segundoservico.Config;
 using segundoservico.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,9 +18,6 @@ builder.Services.AddSingleton<IFilaService, FilaService>(sp =>
     return new FilaService(connectionString, queueName);
 });
 
-
-//builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
-//builder.Services.AddScoped<IFilaService, FilaService>();
 
 
 var app = builder.Build();

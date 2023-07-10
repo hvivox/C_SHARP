@@ -18,6 +18,7 @@ namespace segundoservico.Controllers
         public IActionResult IniciarConsumoFila()
         {
             _filaService.IniciarConsumoFila();
+            //_filaService.EncerrarConexaoFila();
 
             return Ok("Consumo da fila iniciado com sucesso e encerradas.");
         }

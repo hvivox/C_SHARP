@@ -1,12 +1,12 @@
 using System.Threading.Tasks;
-using primeiroservico.Model;
+using segundoservico.Model;
 
 namespace segundoservico.Services
 {
     public interface IFilaService
     {
         Task IniciarConsumoFila();
-        List<Usuario> ObterMensagensConcluidas();
+        //List<Usuario> ObterMensagensConcluidas();
 
     }
 }
